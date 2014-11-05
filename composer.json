@@ -1,5 +1,5 @@
 {
-    "name": "knplabs/console-service-provider",
+    "name": "mistera/console-service-provider",
     "type": "library",
     "description": "console service provider for Silex",
     "keywords": [ "console", "silex" ],
